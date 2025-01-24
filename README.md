@@ -11,6 +11,9 @@ The project utilizes **MONAI**, a robust framework for medical image analysis th
 - **Automatic segmentation of the aorta** in CT images.
 - **Measurement of aortic diameters** at various points.
 - **Pretrained MONAI model** for segmentation.
+  
+![download (2)](https://github.com/user-attachments/assets/9a396462-376c-418c-9b95-7e0adf7729a5)
+
 1. Preprocessing the CT Images
 
 2. Segmentation of the Aorta
